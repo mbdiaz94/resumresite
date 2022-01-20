@@ -4,8 +4,6 @@
     background-color: rgb(228, 26, 26);
     border-radius: 50%;
   }
-  
-
 
   .padding-t{
       padding-top: 90px;
@@ -15,23 +13,14 @@
       padding-bottom: 30px;
   }
 
-/*
- * Globals
- */
 
-
-/* Custom default button */
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
   color: #333;
-  text-shadow: none; /* Prevent inheritance from `body` */
+  text-shadow: none; 
 }
 
-
-/*
- * Base structure
- */
 
 body {
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
