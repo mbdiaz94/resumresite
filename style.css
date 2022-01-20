@@ -7,10 +7,13 @@
   
 
 
-  .padding{
+  .padding-t{
       padding-top: 90px;
   }
 
+  .padding-b{
+      padding-bottom: 30px;
+  }
 
 /*
  * Globals
@@ -42,6 +45,8 @@ body {
 .main-container{
   max-width: 55em;
 }
+
+
 
 img {
     width: 100%;
