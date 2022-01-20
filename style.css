@@ -6,6 +6,12 @@
   }
   
 
+
+  .padding{
+      padding-top: 90px;
+  }
+
+
 /*
  * Globals
  */
@@ -33,6 +39,14 @@ body {
   max-width: 42em;
 }
 
+.main-container{
+  max-width: 55em;
+}
+
+img {
+    width: 100%;
+    height: auto;
+  }
 
 /*
  * Header
